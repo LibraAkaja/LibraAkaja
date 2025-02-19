@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React and exploring Linux systems
 - 💞️ I’m looking to collaborate on some projects to enhance my skills and add up to my experience
 - 📫 How to reach me:<br>
-  &emsp;&emsp;✉️ Email: [adhikaribiraj908@gmail.com](mailto:adhikaribiraj908@gmail.com)<br>
+  &emsp;&nbsp;✉️ Email: [adhikaribiraj908@gmail.com](mailto:adhikaribiraj908@gmail.com)<br>
   📱 Social media:<br>
   [LinkedIn](https://www.linkedin.com/in/biraj-adhikari-86005b352)<br>
   [Instagram](https://www.instagram.com/birajadhikari908/)<br>
