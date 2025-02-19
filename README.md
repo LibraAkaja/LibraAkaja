@@ -5,7 +5,7 @@
 - 📫 How to reach me:<br>
   &emsp;&nbsp;&nbsp;✉️ Email: [adhikaribiraj908@gmail.com](mailto:adhikaribiraj908@gmail.com)<br>
   &emsp;&nbsp;&nbsp;📱 Social media:<br>
-  &emsp;&nbsp;&nbsp;&emsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/biraj-adhikari-86005b352)<br>
-  &emsp;&nbsp;&nbsp;&emsp;&nbsp;&nbsp;[Instagram](https://www.instagram.com/birajadhikari908/)<br>
-  &emsp;&nbsp;&nbsp;&emsp;&nbsp;&nbsp;[FaceBook](https://www.facebook.com/biraj.adhikari.39750)
+  &emsp;&nbsp;&nbsp;&emsp;&nbsp;&nbsp;💼 [LinkedIn](https://www.linkedin.com/in/biraj-adhikari-86005b352)<br>
+  &emsp;&nbsp;&nbsp;&emsp;&nbsp;&nbsp;📸 [Instagram](https://www.instagram.com/birajadhikari908/)<br>
+  &emsp;&nbsp;&nbsp;&emsp;&nbsp;&nbsp;📘 [FaceBook](https://www.facebook.com/biraj.adhikari.39750)
 - 😄 Pronouns: He/Him
