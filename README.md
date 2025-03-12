@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LibraAkaja, 19, a Computer Engineering student at Thapathali Campus, Kathmandu  
+- 👋 Hi, I’m @LibraAkaja, 19, a Computer Engineering student at Thapathali Campus, Kathmandu, Nepal  
 - 👀 I’m interested in Web Development and Web Analytics
 - 🌱 I’m currently learning React and exploring Linux system
 - 💞️ I’m looking to collaborate on some projects to enhance my skills and add up to my experience
